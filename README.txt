@@ -40,3 +40,8 @@ List of devices:
 carte ESP32, servo-moter , keypad , capture de distance ultrason HC-SR04, LED, Resistor 220 ohm ,Jumper wires (genric) 
 
 Installation and prepartion instrcutions:
+PIN SERVO MOTEUR 15,
+connect to the row pinouts of the keypad  {19, 18, 5, 17},
+connect to the column pinouts of the keypad {16, 4, 0, 2},
+ledPin 12,
+pin ultrason :TrigerPin 23 , EchoPin 22,
